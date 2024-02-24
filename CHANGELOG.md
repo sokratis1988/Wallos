@@ -1,5 +1,32 @@
 # Changelog
 
+## [1.7.0](https://github.com/sokratis1988/Wallos/compare/v1.6.0...v1.7.0) (2024-02-24)
+
+
+### Features
+
+* add apilayer as provider for fixer api ([0f19dd6](https://github.com/sokratis1988/Wallos/commit/0f19dd688fe3a2156e7d26d1bf1e1f8b30ce79ad))
+* add apilayer as provider for fixer api ([#127](https://github.com/sokratis1988/Wallos/issues/127)) ([0f19dd6](https://github.com/sokratis1988/Wallos/commit/0f19dd688fe3a2156e7d26d1bf1e1f8b30ce79ad))
+* add stats about inactive subscriptions ([#146](https://github.com/sokratis1988/Wallos/issues/146)) ([ccac17a](https://github.com/sokratis1988/Wallos/commit/ccac17a6f222cb1ee022fd30b7a1d34306dd0de2))
+* add workflow for building and publishing docker images ([970c96a](https://github.com/sokratis1988/Wallos/commit/970c96a8c904809544c944071986be2a684daf50))
+* allow to disable subscriptions ([#144](https://github.com/sokratis1988/Wallos/issues/144)) ([50056d9](https://github.com/sokratis1988/Wallos/commit/50056d9f03a46c166650474b3877b55a24873bb9))
+* enable deployment in subdirectory ([e2af9af](https://github.com/sokratis1988/Wallos/commit/e2af9afc32bfc248f594336c50d44ad6f36f197e))
+* new statistics per payment method ([#124](https://github.com/sokratis1988/Wallos/issues/124)) ([6200fa5](https://github.com/sokratis1988/Wallos/commit/6200fa5e87d3f60853c3d8b95f5d676e39b378f4))
+* persist display and experimental settings on the db ([f0a6f1a](https://github.com/sokratis1988/Wallos/commit/f0a6f1a2f18b329c9f784a9f1953cd0e7616e1c6))
+* small styles changed ([f0a6f1a](https://github.com/sokratis1988/Wallos/commit/f0a6f1a2f18b329c9f784a9f1953cd0e7616e1c6))
+* sort disabled subscription at the bottom ([ccac17a](https://github.com/sokratis1988/Wallos/commit/ccac17a6f222cb1ee022fd30b7a1d34306dd0de2))
+* specify image stability type when triggering build ([5b22cfd](https://github.com/sokratis1988/Wallos/commit/5b22cfd87a94a865f53b282964961862bbea1861))
+* update exchange rate when saving api key ([0f19dd6](https://github.com/sokratis1988/Wallos/commit/0f19dd688fe3a2156e7d26d1bf1e1f8b30ce79ad))
+
+
+### Bug Fixes
+
+* bug on saving fixer api key ([#142](https://github.com/sokratis1988/Wallos/issues/142)) ([866eb28](https://github.com/sokratis1988/Wallos/commit/866eb28e88495e851336b5e224274a823ff4173d))
+* Currency not preselected on registration ([fc56cf6](https://github.com/sokratis1988/Wallos/commit/fc56cf69ef22a07978022265b2e8344dc293eb14))
+* Language sort order ([884a8e5](https://github.com/sokratis1988/Wallos/commit/884a8e569339ddbcb89af4634c0c845b053affbb))
+* missing authentication check ([#133](https://github.com/sokratis1988/Wallos/issues/133)) ([b887d3a](https://github.com/sokratis1988/Wallos/commit/b887d3a0503585dadde4b1b59b023c981b0f7f66))
+* show translated no category when sorting by category ([#122](https://github.com/sokratis1988/Wallos/issues/122)) ([330c061](https://github.com/sokratis1988/Wallos/commit/330c061b74ad1580173f3d3bc7b14048492e22d2))
+
 ## [1.6.0](https://github.com/ellite/Wallos/compare/v1.5.0...v1.6.0) (2024-02-24)
 
 
